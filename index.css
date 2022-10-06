@@ -1,0 +1,214 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+main {
+	height: 40rem;
+	width: 85.5rem;
+	background-color: #ffffff;
+	margin: 0;
+	padding: 0;
+
+}
+
+header {
+	display: flex;
+	display: inline;
+	flex-wrap: wrap;
+	position: absolute;
+	background-color: darkblue;
+	color: white;
+	width: 85rem;
+	height: 2rem;
+	/* font-size: 24px; */
+	margin-bottom: 1rem;
+}
+
+header p:first-child {
+	position: absolute;
+	left: 1.5rem;
+}
+
+header p:nth-child(2) {
+	position: absolute;
+	left: 5rem;
+}
+
+header p:nth-child(3) {
+	position: absolute;
+	left: 10rem;
+}
+
+header p:nth-child(4) {
+	position: absolute;
+	left: 17rem;
+}
+
+header p:nth-child(5) {
+	position: absolute;
+	left: 23rem;
+}
+
+header p:nth-child(6) {
+	position: absolute;
+	left: 35rem;
+}
+
+header p:nth-child(7) {
+	position: absolute;
+	left: 40rem;
+}
+
+header p:nth-child(8) {
+	position: absolute;
+	left: 71.5rem;
+	font-size: smaller;
+}
+
+hr {
+	margin-bottom: 0.5rem;
+}
+
+section {
+	width: 17rem;
+	height: 30.9rem;
+	border: 1px solid black;
+	position: absolute;
+	top: 4rem;
+	color: rgb(192, 7, 192);
+	/* font-size: 15px; */
+	display: inline-block;
+
+}
+
+.aside {
+	font-size: 20px;
+}
+
+.aside hr {
+	margin-bottom: 1rem;
+
+}
+
+.admission {
+	background-color: yellow;
+	color: black;
+}
+
+.asides {
+	color: black;
+	background-color: rgb(199, 208, 221);
+}
+
+.ques {
+	color: rgb(2, 253, 2);
+	font-weight: 900;
+	font-weight: bolder;
+	font-size: 24px;
+}
+
+.ques2 {
+	background-color: blue;
+	color: #ffffff;
+	font-size: 23px;
+	border-radius: 50px;
+	margin-right: 0.2rem;
+}
+
+.asideright {
+	position: absolute;
+	display: flex;
+	display: inline-block;
+}
+
+div.login {
+	left: 20rem;
+	bottom: 28rem;
+	position: absolute;
+	width: 65.5rem;
+	font-size: 24px;
+	color: blue;
+
+
+}
+
+div.login p {
+	color: black;
+}
+
+red {
+	color: red;
+}
+
+fieldset {
+	padding-top: 3.5rem;
+	left: 20rem;
+	bottom: 13rem;
+	position: absolute;
+	width: 65.5rem;
+	display: block;
+	height: 11rem;
+
+
+}
+
+span.span {
+	background-color: darkblue;
+	color: #ffffff;
+	padding: 0.5rem 2rem;
+	border: 1px solid blue;
+	display: inline;
+}
+
+span.span2 {
+	background-color: darkblue;
+	padding: 0.5rem 5.9rem;
+	color: #ffffff;
+	border: 1px solid blue;
+	display: inline-block;
+
+}
+
+fieldset hr {
+	width: 15rem;
+}
+
+button {
+	align-items: center;
+	position: absolute;
+	text-align: center;
+	display: inline-block;
+	background-color: darkblue;
+	border-radius: 50px;
+	left: 30rem;
+	color: #ffffff;
+}
+
+legend {
+	color: red;
+}
+
+input {
+	width: 20rem;
+	box-shadow: 3px;
+}
+
+div.last {
+	background-color: darkblue;
+	color: #ffffff;
+	position: absolute;
+	display: inline-block;
+	display: flex;
+	width: 65rem;
+	text-align: center;
+	justify-content: center;
+}
+
+a {
+	position: absolute;
+	left: 68rem;
+	bottom: 11rem;
+	width: 6rem;
+}

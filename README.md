@@ -14,6 +14,10 @@
 ## Tech/framework used
 - Html
 - Css
+## Preview here
+[Demo](https://rawcdn.githack.com/Intelligence247/unilorin-page/a2a81cc7551d5232504bd8422a7f49e2b3e3c62b/index.html)
+
+![screenshot](./media/sketch.png)
 ## Contact
 If you want to contact me you can reach me at
 - https://github.com/Intelligence247 or
